@@ -1,3 +1,4 @@
+# ================================
 # Project 1 — To Do List
 # Intern: Hubba
 # Company: Decode Labs Internship
@@ -5,3 +6,10 @@
 # Description: A console-based to-do
 # list app to add, view and delete
 # daily tasks using Python
+# ================================
+my_tasks = []
+for i in range(1,3):
+ task = input("Enter your task here")
+ my_tasks.append(task)
+for i,task in enumerator(1,task):
+ print( i ,my_tasks)
