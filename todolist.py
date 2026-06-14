@@ -8,7 +8,7 @@
 # daily tasks using Python
 # ================================
 my_tasks = []
-for i in range(1,3):
+for i in range(0,3):
  task = input("Enter your task here")
  my_tasks.append(task)
 for i,task in enumerate(my_tasks , start =0):
