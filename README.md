@@ -9,8 +9,9 @@ This repository contains Python projects developed during the DecodeLabs Interns
 
    # 2. Expense Tracker
        A Python application used to track and manage daily expenses.
-
-
+   # 3. Random password generator
+       A Python application used to generate random password.
+       
 
 # Technologies Used
 - Python
