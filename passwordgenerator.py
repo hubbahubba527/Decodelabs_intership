@@ -1,3 +1,10 @@
+# ================================
+# Project 3 — Expense Tracker
+# Intern: Hubba
+# Company: Decode Labs Internship
+# Date: June 2026
+# Description: A random password generator
+# ================================
 import random
 import string
 
