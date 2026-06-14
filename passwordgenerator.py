@@ -21,7 +21,7 @@ else:
 
     characters = string.ascii_letters + string.digits
 
-    for i in range(length ):
+    for i in range(length-3 ):
         password.append(random.choice(characters))
 
     random.shuffle(password)
